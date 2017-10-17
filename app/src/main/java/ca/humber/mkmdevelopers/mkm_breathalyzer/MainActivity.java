@@ -37,8 +37,8 @@ private FirebaseAuth auth;
         setContentView(R.layout.activity_main);
         auth = FirebaseAuth.getInstance();
 
-        Button B1 = (Button)findViewById(R.id.B1);
-        B1.setOnClickListener(new View.OnClickListener() {
+        Button B5 = (Button)findViewById(R.id.B5);
+        B5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
@@ -53,14 +53,12 @@ private FirebaseAuth auth;
         });
 
 
-        Button B2 = (Button)findViewById(R.id.B2);
-        B2.setOnClickListener(new View.OnClickListener() {
+        Button B1 = (Button)findViewById(R.id.B1);
+        B1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (auth.getCurrentUser() != null) {
-
-
-                }
+                        Intent I1 = new Intent(MainActivity.this, BreathalyzerTest.class);
+                        startActivity(I1);
 
             }
         });

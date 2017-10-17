@@ -55,16 +55,16 @@ public final class R {
         public static final int adjust_width = 0x7f0b0026;
         public static final int auto = 0x7f0b002f;
         public static final int dark = 0x7f0b0030;
-        public static final int email = 0x7f0b0066;
+        public static final int email = 0x7f0b0067;
         public static final int icon_only = 0x7f0b002c;
         public static final int light = 0x7f0b0031;
         public static final int none = 0x7f0b0011;
         public static final int normal = 0x7f0b0013;
-        public static final int progressBar = 0x7f0b006b;
+        public static final int progressBar = 0x7f0b006c;
         public static final int radio = 0x7f0b0050;
         public static final int standard = 0x7f0b002d;
-        public static final int text = 0x7f0b008a;
-        public static final int text2 = 0x7f0b0088;
+        public static final int text = 0x7f0b008b;
+        public static final int text2 = 0x7f0b0089;
         public static final int wide = 0x7f0b002e;
         public static final int wrap_content = 0x7f0b0021;
     }

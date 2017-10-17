@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml:3:5-55
 		INJECTED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/ma
 		INJECTED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml:5:5-22:19
+ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml:5:5-23:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/maheshweriesamaroo/.android/build-cache/291fd5d1172df62cb92f2003942481910798ec18/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/maheshweriesamaroo/.android/build-cache/34d43307b9dddf4b74f57aa66f8e835f1a9f6df1/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/maheshweriesamaroo/.android/build-cache/d2284f1dd147c5a316846fe3ee705acd3baa2507/output/AndroidManifest.xml:26:5-20
@@ -69,9 +69,13 @@ ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/ma
 	android:name
 		ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml:18:27-74
 activity#ca.humber.mkmdevelopers.mkm_breathalyzer.MainActivity
-ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml:21:9-59
+ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml:21:9-50
 	android:name
 		ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml:21:19-47
+activity#ca.humber.mkmdevelopers.mkm_breathalyzer.BreathalyzerTest
+ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml:22:9-63
+	android:name
+		ADDED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml:22:19-51
 uses-sdk
 INJECTED from /Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/maheshweriesamaroo/.android/build-cache/291fd5d1172df62cb92f2003942481910798ec18/output/AndroidManifest.xml:21:5-23:78

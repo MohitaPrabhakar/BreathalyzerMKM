@@ -39,6 +39,7 @@
             </intent-filter>
         </activity>
         <activity android:name="ca.humber.mkmdevelopers.mkm_breathalyzer.MainActivity" />
+        <activity android:name="ca.humber.mkmdevelopers.mkm_breathalyzer.BreathalyzerTest" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
