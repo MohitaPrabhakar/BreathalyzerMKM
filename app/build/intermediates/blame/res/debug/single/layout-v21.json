@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/maheshweriesamaroo/.android/build-cache/291fd5d1172df62cb92f2003942481910798ec18/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/maheshweriesamaroo/.android/build-cache/291fd5d1172df62cb92f2003942481910798ec18/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/maheshweriesamaroo/.android/build-cache/291fd5d1172df62cb92f2003942481910798ec18/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/maheshweriesamaroo/.android/build-cache/291fd5d1172df62cb92f2003942481910798ec18/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

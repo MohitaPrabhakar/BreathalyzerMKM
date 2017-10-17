@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/maheshweriesamaroo/.android/build-cache/291fd5d1172df62cb92f2003942481910798ec18/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/maheshweriesamaroo/.android/build-cache/291fd5d1172df62cb92f2003942481910798ec18/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/maheshweriesamaroo/.android/build-cache/291fd5d1172df62cb92f2003942481910798ec18/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/maheshweriesamaroo/Desktop/CENG319/MKM-Breathalyzer/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/maheshweriesamaroo/.android/build-cache/291fd5d1172df62cb92f2003942481910798ec18/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
